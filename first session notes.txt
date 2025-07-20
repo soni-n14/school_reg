@@ -1,0 +1,19 @@
+Install MySQL and MySQL Workbench
+Got a simple Python FastAPI server going
+connected server to MySQL.
+created a Person Table.
+created a stored procedure.
+In API server created a get route to get data from database (SELECT, READ)
+In API server created a post route to insert(create) data from database (INSERT, CREATE) also (UPDATE)
+
+Review:
+Primary Key?  
+CRUD
+Create in SQL INSERT
+Read in SQL SELECT
+Update in SQL UPDATE
+Delete in SQL DELETE
+
+Syntax wise.
+SQL Syntax in MySQL
+Python Syntax in server.py
